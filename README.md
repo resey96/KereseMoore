@@ -4,6 +4,7 @@ Cybersecurity graduate student with a background in computer science and network
 Interested in:
 - Cloud Security
 - Infrastructure Security
+- Governance, Risk and Compliance (GRC)
 - Security Automation
 
 # Currently Working On
